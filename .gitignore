@@ -1,3 +1,6 @@
+# configurations
+*config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -80,7 +83,10 @@ target/
 
 # IPython
 profile_default/
-ipython_config.py
+ipython_config.py 
+
+# Trunk linter stuff
+.trunk
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
